@@ -1,0 +1,17 @@
+.table {
+  width:285px;
+  padding:5px;
+  border:10px double pink;
+  margin:0;
+}
+.paragraph {
+  width:240px;
+  padding:10px;
+  margin:0;
+}
+.image {
+  width:285px;
+  padding:5px;
+  border:10px groove blue;
+  margin:0;
+}
